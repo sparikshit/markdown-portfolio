@@ -1,1 +1,4 @@
-Replace this with a link to your a GitHub or social media profile.
+Check this out
+
+https://ubuntu.com/tutorials/ubuntu-on-windows#1-overview
+go through this
